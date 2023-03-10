@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakhan Phuse</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img align="center" width=400 alt="coding" src="https://raw.githubusercontent.com/ImVjGit/Gif/main/Java%20DEVELOPER.gif">
+<img align="right" width=400 alt="coding" src="https://raw.githubusercontent.com/ImVjGit/Gif/main/Java%20DEVELOPER.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhanphuse&label=Profile%20views&color=0e75b6&style=flat" alt="lakhanphuse" /> </p>
 
 - 🔭 I’m currently working on [Product Catalogue](https://github.com/Lakhanphuse/product_catalogue)
